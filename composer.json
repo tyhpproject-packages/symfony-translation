@@ -1,0 +1,19 @@
+{
+    "name": "tyhpdef/symfony-translation",
+    "description": "Tyhp type definitions for symfony/translation 7.4.17.",
+    "type": "metapackage",
+    "license": "Apache-2.0",
+    "version": "7.4.17",
+    "keywords": [
+        "dev",
+        "static analysis"
+    ],
+    "require": {
+        "tyhpdef/symfony-translation-impl": "~7.4.17.0"
+    },
+    "extra": {
+        "tyhp": {
+            "impl": "tyhpdef/symfony-translation-impl"
+        }
+    }
+}
