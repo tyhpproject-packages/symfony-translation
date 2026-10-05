@@ -1,15 +1,15 @@
 {
     "name": "tyhpdef/symfony-translation",
-    "description": "Tyhp type definitions for symfony/translation 7.4.17.",
+    "description": "Tyhp type definitions for symfony/translation 8.1.5.",
     "type": "metapackage",
     "license": "Apache-2.0",
-    "version": "7.4.17",
+    "version": "8.1.5",
     "keywords": [
         "dev",
         "static analysis"
     ],
     "require": {
-        "tyhpdef/symfony-translation-impl": "~7.4.17.0"
+        "tyhpdef/symfony-translation-impl": "~8.1.5.0"
     },
     "extra": {
         "tyhp": {

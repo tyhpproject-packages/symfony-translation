@@ -1,10 +1,10 @@
 <!-- tyhp-readme:start -->
 # tyhpdef/symfony-translation
 
-Tyhp type definitions for `symfony/translation` `7.4.17`.
+Tyhp type definitions for `symfony/translation` `8.1.5`.
 
 ```bash
-composer require --dev tyhpdef/symfony-translation:7.4.17
+composer require --dev tyhpdef/symfony-translation:8.1.5
 ```
 
 This is a metapackage. Composer also installs `tyhpdef/symfony-translation-impl` (type files).
